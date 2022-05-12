@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Nazemrap/FAQ-accordion-card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://nazemrap.github.io/FAQ-accordion-card/
 
 ## My process
 
